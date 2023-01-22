@@ -6,7 +6,7 @@ baseurl = "https://hugcis.github.io/hugo-astatine-theme/"
 # Language used
 languageCode = "en-us"
 # Website title
-title = "Astatine Theme"
+title = "Jiyoon Park"
 # Theme used
 theme = "hugo-astatine-theme"
 
@@ -32,8 +32,8 @@ pygmentsStyle = "native"
 # Configure main navbar links. They can have a weight to select the order.
 # This links to content within the content/post/ folder
 [[menu.main]]
-    name = "Posts"
-    url = "/post/"
+    name = "Projects"
+    url = "/projects/"
     weight = -150
 
 # This links to the page about.md
@@ -42,25 +42,25 @@ pygmentsStyle = "native"
     url = "/about/"
     weight = -110
 
+
 # Make the tags and categories pages accessible directly from the navbar.
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Education"
+    url = "/education/"
     weight = -120
 
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = -130
+#[[menu.main]]
+#    name = "Categories"
+#    url = "/categories/"
+#    weight = -130
 
 # Site wide params and SEO
 [params]
     # Site description. Individual pages can have descriptions too but if
     # missing it will fallback to that one.
-    description = """The homepage of Astatine. This website is a demo the of the \
-    Hugo theme Astatine."""
+    description = """Jiyoon Park's personal website"""
     # Author of the site
-    authorName = "Jack Harkness"
+    authorName = "Jiyoon Park"
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
         name = "img/main.jpg"

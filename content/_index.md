@@ -1,11 +1,11 @@
 ---
 # === Required fields  ===
 # Your name 
-name: "Astatine"
+name: "Jiyoon Park"
 # Your profile picture
 imgname: 
   name: "img/main.jpg"
-  alt: "Picture of me"
+  alt: "Jiyoon Park Profile Picture"
   type: image/jpeg
 # More sources can be added (optional) using 
 # imgOther:
@@ -15,7 +15,7 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "Chemical element"
+personal_title: "Robotics Software Engineer "
 # An address (you can list multiple)
 address: 
   - 
@@ -26,11 +26,14 @@ address:
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
-# email: aaaa@example.com
+email: aaaa@example.com
+  -
+  [Contact Us](mailto:admin@w3schools.io)
+
 # Add an email "image" for spam protection. With light and dark mode
 # emailImg: 
-#   dark: /img/dark_email.png
-#   light: /img/light_email.png
+#  dark: /img/dark_email.png
+#  light: /img/light_email.png
 
 # List your publications. The required fields are pdf, title, and image 
 # (which should be the image path). The other fields are optional.
@@ -77,10 +80,10 @@ doi = {10.1038/ncomms2819}\n
 
 # Bio
 
-I am a chemical element with the symbol At and atomic number 85. I am 
-the rarest naturally occurring element in the Earth's crust, occurring only as
-the decay product of various heavier elements. All of my isotopes are
-short-lived; the most stable is astatine-210, with a half-life of 8.1 hours. 
+Hello, I am a M.S. in Robotic Systems Development student at Carnegie Mellon University Robotics Institute. 
 
-A pure sample of myself has never been assembled, because any macroscopic
-specimen would be immediately vaporized by the heat of its own radioactivity.
+My research interests cover:
+- Computer Vision
+- Autonomous and safe manipulator robots
+- Enhancing robot stability while performing tasks with humans
+- Robot Learning
