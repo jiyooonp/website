@@ -1,9 +1,14 @@
++++
+date = "2021-02-09"
+title = "Ridgeback Trajectory Planning"
+slug = "Ridgeback-Trajectory-Planning"
++++
 # :robot:Ridgeback Trajectory Planning
 
 ### Motivation:
 In taking our project to the next level, we wanted to allow our robot to draw on a large curved surface. This repository is for calculating the trajectory for following the curved wall. 
 
-<img src="./img/gazebo.GIF" width="600">
+<img src="/img/gazebo.GIF" width="600">
 ---
 
 ### Input:
@@ -49,48 +54,48 @@ I warned you that it still need more work... but if you are willing to wait...:t
 **2021.08.09**
 
 Started by covering simple wall with squares 
-![2021.08.09](./img/0809-1223.png)
+![2021.08.09](/img/0809-1223.png)
 
 **2021.08.10**
 
 Started by covering complex wall with squares 
-![2021.08.10](./img/0810-2332.png)
+![2021.08.10](/img/0810-2332.png)
 
 **2021.08.11**
 
 Started by covering wall with circles 
-![2021.08.11](./img/0811-1423.png)
+![2021.08.11](/img/0811-1423.png)
 
 **2021.08.21**
 
 Started by covering wall with small circles for better trajectory
-![2021.08.21](./img/0821-1455.png)
+![2021.08.21](/img/0821-1455.png)
 
 **2021.09.10**
 
 Update minor changes
-![2021.09.10](./img/0910-1250.png)
+![2021.09.10](/img/0910-1250.png)
 
 **2021.09.11**
 
 Realized that I have not considered the actual robots -> fixed the problem but now it is super slow :sad:
-![2021.09.11](./img/0911-1421.png)
-![2021.09.11](./img/0911-1453.png)
-![2021.09.11](./img/0911-1508.png)
+![2021.09.11](/img/0911-1421.png)
+![2021.09.11](/img/0911-1453.png)
+![2021.09.11](/img/0911-1508.png)
 
 **2021.09.26**
 
 Started considering iiwa and wall collision
-![2021.09.26](./img/0926-0044.png)
+![2021.09.26](/img/0926-0044.png)
 
 **2021.09.30**
 
 Due to the deadline moving up, needed a trajectory that ensures least movements. 
 
 Trajectory that puts ridgeback side to side (v8). 
-![2021.09.30](./img/0930-1103.png)
+![2021.09.30](/img/0930-1103.png)
 
 **2021.10.09**
 
 Updated configurations to match gazebo world + cleaned up algorithm to have better efficiency
-![2021.09.30](./img/1011-2239.png)
+![2021.09.30](/img/1011-2239.png)

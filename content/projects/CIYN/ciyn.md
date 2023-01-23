@@ -1,3 +1,9 @@
++++
+date = "2021-02-09"
+title = "Course Information You Need"
+slug = "Course-Information-You-Need"
++++
+
 <div align="center">
   <h3 align="center">CIYN | Course Information You Need</h3>
   <p align="center">
@@ -6,7 +12,7 @@
 </div>
 
 
-![image](./img/ciyn_main.png)
+![image](/img/ciyn_main.png)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -14,13 +20,13 @@ Implementing an AR application step by step using planar homographies. Finding p
 to estimate the homography between them. Then using this homography to warp images and finally implement it on AR applications.
 
 ## Page Configuration
-![image](./img/ciyn_1.png)
+![image](img/ciyn_1.png)
 
 - front-end-bootstrap folder has all elements of our site.
 - front-end-prototype folder has the prototype images of our site.  
 
 ## Implementation Tools & Prerequisites
-![image](./img/ciyn_5.png)<br>
+![image](img/ciyn_5.png)<br>
 We used Firebase, Nodejs, jQuery for back-end, Bootstrap, Chartjs for front-end and visualization. 
 - Back-end
   * Nodejs | Server side, get SESSION information
@@ -34,9 +40,9 @@ We used Firebase, Nodejs, jQuery for back-end, Bootstrap, Chartjs for front-end 
 [![CIYN demo video](https://img.youtube.com/vi/bDnmZaZexwY/0.jpg)](https://youtu.be/bDnmZaZexwY)
 <br/>
 
-![image](./img/ciyn_2.png)
-![image](./img/ciyn_3.png)
-![image](./img/ciyn_4.png)
+![image](/img/ciyn_2.png)
+![image](/img/ciyn_3.png)
+![image](/img/ciyn_4.png)
 
 
 ### Collaborators

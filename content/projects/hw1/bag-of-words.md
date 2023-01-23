@@ -1,3 +1,9 @@
++++
+date = "2021-02-09"
+title = "Spatial Pyramid Matching for Scene Classification"
+slug = "CV-A-HW1"
++++
+
 <!--https://github.com/othneildrew/Best-README-Template-->
 <a name="readme-top"></a>
 
@@ -8,7 +14,7 @@
   </p>
 </div>
 
-![image](./img/hw1_main.png)
+![image](/img/hw1_main.png)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -23,7 +29,7 @@ Implementation of a scence classification system that uses bag-of-words approach
 
 ## Pipeline
 
-![image](./img/hw1_1.png)
+![image](/img/hw1_1.png)
 
 <!-- Results  -->
 ## Results 
@@ -32,13 +38,13 @@ _For the entire report, please refer to the [Documentation](https://github.com/j
 
 
 1. Extracting Filter Responses
-![image](./img/hw1_2.png)
+![image](/img/hw1_2.png)
 2. Visualization of wordmaps 
-![image](./img/hw1_3.png)
+![image](/img/hw1_3.png)
 3. 4 Building A Model of the Visual Word
-![image](./img/hw1_4.png)
+![image](/img/hw1_4.png)
 4. Final accuracy of classification
-![image](./img/hw1_5.png)
+![image](/img/hw1_5.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

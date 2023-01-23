@@ -1,3 +1,9 @@
++++
+date = "2021-02-09"
+title = "Camera Mobile Manipulator"
+slug = "Camera-Mobile-Manipulator"
++++
+
 # :movie_camera: Camera Mobile Manipulator Project :movie_camera:
 
 
@@ -11,19 +17,19 @@
     roslaunch darknet_ros darknet_ros.launch 
 
 ## Visual Servoing Test in real world 
-![visual servo lab](./img/cmm_2.gif)
+![visual servo lab](/img/cmm_2.gif)
 
 ## Manipulation Replication Test in real world 
-![visual servo lab](./img/cmm_1.gif)
+![visual servo lab](/img/cmm_1.gif)
 
 ## Default World 
-![run environment](./img/env.png)
+![run environment](/img/env.png)
 
 ## Darknet 
-![run environment](./img/darknet.png)
+![run environment](/img/darknet.png)
 
 ## Camera Movement in Simulation 
-![run environment](./img/cmm_4.gif)
+![run environment](/img/cmm_4.gif)
 
 
 

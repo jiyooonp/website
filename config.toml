@@ -38,8 +38,8 @@ pygmentsStyle = "native"
 
 # This links to the page about.md
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "cv"
+    url = "/docs/jiyoonpark_cv.pdf"
     weight = -110
 
 

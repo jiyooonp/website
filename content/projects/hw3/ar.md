@@ -1,3 +1,8 @@
++++
+date = "2021-02-09"
+title = "Augmented Reality with Planar Homographies"
+slug = "CV-A-HW3"
++++
 <!--https://github.com/othneildrew/Best-README-Template-->
 <a name="readme-top"></a>
 
@@ -8,7 +13,7 @@
   </p>
 </div>
 
-![image](./imgr/hw3_main.png)
+![image](/img/hw3_main.png)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -28,14 +33,14 @@ _For the entire report, please refer to the [Documentation](https://github.com/j
 
 
 1. Feature Detection and Matching
-![image](./imgr/hw3_2.png)
+![image](/img/hw3_2.png)
 2. RANSAC for Homography Computation
-![image](./imgr/hw3_3.png)
+![image](/img/hw3_3.png)
 3. Augmented Reality application
-![image](./imgr/hw3_6.gif)
+![image](/img/hw3_6.gif)
 4. Panorama Image Generation Using Homography 
-![image](./imgr/hw3_4.png)
-![image](./imgr/hw3_5.png)
+![image](/img/hw3_4.png)
+![image](/img/hw3_5.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -1,3 +1,8 @@
++++
+date = "2021-02-09"
+title = "JELP: Restaurant Recommendation and Analysis Website"
+slug = "JELP"
++++
 <!--https://github.com/othneildrew/Best-README-Template-->
 <a name="readme-top"></a>
 
@@ -9,7 +14,7 @@
   <p>[Github Link](https://github.com/JiyooonPark/BigDataApplicationProject)</p>
 </div>
 
-![image](./img/review_main.png)
+![image](/img/review_main.png)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -29,18 +34,18 @@ wanted data and data manipulation!
 
 
 ## Database Schema & ER diagram 
-![image](./img/review_9.png)
+![image](/img/review_9.png)
 ## Overview of PHP Code Structure
-![image](./img/review_8.png)
+![image](/img/review_8.png)
 
 <!-- Results  -->
 ## Demonstraion of website 
-![image](./img/review_1.png)
-![image](./img/review_2.png)
-![image](./img/review_3.png)
-![image](./img/review_4.png)
-![image](./img/review_5.png)
-![image](./img/review_6.png)
+![image](/img/review_1.png)
+![image](/img/review_2.png)
+![image](/img/review_3.png)
+![image](/img/review_4.png)
+![image](/img/review_5.png)
+![image](/img/review_6.png)
 
 _
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

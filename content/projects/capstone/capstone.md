@@ -1,8 +1,13 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMEME-Phoenix%2FMEME&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
++++
+date = "2021-02-09"
+title = "Autonomous Driving Trolley, MEME"
+slug = "Autonomous-Driving-Trolley-MEME"
++++
+
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="./img/logo.png" alt="Markdownify" width="400"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="../img/logo.png" alt="Markdownify" width="400"></a>
   <br>
   Autonomous Driving Trolley, MEME
   <br>
@@ -41,7 +46,7 @@
 ### ⚒️ System Architecture
 
 <p align="center" >
-<img src="./img/system_architecture_eng.png" alt="Markdownify" width="800" >
+<img src="../img/system_architecture_eng.png" alt="Markdownify" width="800" >
 </p>
 </div>
 
