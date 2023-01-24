@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Jiyoon Park</title>
-    <link>https://jiyooonp.github.io/</link>
-    <description>Recent content on Jiyoon Park</description>
+    <title>markdown on Jiyoon Park</title>
+    <link>https://jiyooonp.github.io/tags/markdown.html</link>
+    <description>Recent content in markdown on Jiyoon Park</description>
     <image>
       <url>https://jiyooonp.github.io/papermod-cover.png</url>
       <link>https://jiyooonp.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jiyooonp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jiyooonp.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Reconstruction</title>
       <link>https://jiyooonp.github.io/posts/papermod/hw4.html</link>
@@ -111,17 +111,6 @@ Built With: PHP SQLite HTML/CSS/JS Bootstrap Python Database Schema &amp;amp; ER
       <description>CIYN | Course Information You Need Open Software Platform · Fall 2020 🔗 GITHUB About The Project Implementing an AR application step by step using planar homographies. Finding point correspondences between two images and use these to estimate the homography between them. Then using this homography to warp images and finally implement it on AR applications.
 Page Configuration front-end-bootstrap folder has all elements of our site. front-end-prototype folder has the prototype images of our site.</description>
     </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://jiyooonp.github.io/education.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jiyooonp.github.io/education.html</guid>
-      <description>education</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
